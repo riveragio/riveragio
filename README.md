@@ -43,6 +43,3 @@
 - 🚀 Self-hosted apps and automation scripts
 
 ---
-
-_⭐️ Star this README to show support!_
-

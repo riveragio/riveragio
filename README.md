@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -43,5 +43,15 @@
 - 🎯 Raspberry Pi & Arduino-based projects
 - 🛠️ PHP + MySQL Web Systems
 - 🚀 Self-hosted apps and automation scripts
+
+<!-- ---
+
+### 🌐 Connect with Me
+
+- 💼 [Portfolio](#) (optional)
+- 📫 Email: `your_email@example.com`
+- 🌍 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🧠 Fun Fact: I love building systems that make life easier.
+-->
 
 ---

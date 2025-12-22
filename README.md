@@ -11,11 +11,7 @@
 
 ---
 
-### 🔥 Streak & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riveragio&theme=tokyonight&hide_border=true" alt="riveragio's Streak Stats" />
-</p>
+### 🔥 Top Languages
 
 
 <p align="center">

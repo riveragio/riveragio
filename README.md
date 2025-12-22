@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic developer passionate about coding, automation, and open-source.</h3>
 
 ---
-<!--
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 ---
--->
+
 ### 🔥 Streak & Contributions
 
 <p align="center">

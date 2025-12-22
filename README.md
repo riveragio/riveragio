@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic developer passionate about coding, automation, and open-source.</h3>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -10,18 +10,18 @@
 </p>
 
 ---
-
+-->
 ### 🔥 Streak & Contributions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riveragio&theme=tokyonight&hide_border=true" alt="riveragio's Streak Stats" />
 </p>
 
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveragio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
--->
+
 ---
 
 ### 🛠️ Skills & Tools

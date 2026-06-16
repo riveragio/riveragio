@@ -8,7 +8,7 @@ Computer Engineering graduate focused on systems development, embedded projects,
 
 ## 🧠 About Me
 
-I am a developer and computer engineering student who enjoys building practical systems that combine software and hardware.  
+I am a developer and computer engineering graduate who enjoys building practical systems that combine software and hardware.  
 My work focuses on low-level programming, embedded systems, backend development, and self-hosted infrastructure.
 
 I like creating projects that solve real problems such as automation tools, monitoring systems, and IoT-based devices.
@@ -74,7 +74,8 @@ I also explore cybersecurity concepts, system design, and lightweight computing 
 - Cybersecurity fundamentals and system monitoring  
 - Lightweight AI and edge computing concepts  
 - Networked systems and self-hosted services  
-- Low-level programming and performance optimization  
+- Low-level programming and performance optimization
+- Competitve Programming for solving problem & challenges  
 
 ---
 
@@ -91,6 +92,7 @@ I also explore cybersecurity concepts, system design, and lightweight computing 
 ## 📫 Contact
 
 Always open to collaboration on embedded systems, automation tools, and backend projects.
+Open also to tutoring for competitive programming or basic programming.
 
 ---
 

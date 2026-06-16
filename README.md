@@ -1,26 +1,34 @@
 <h1 align="center">Hi there 👋, I'm Gio Rivera</h1>
-<h3 align="center">An enthusiastic developer passionate about coding, automation, and open-source.</h3>
+
+<h3 align="center">
+Computer Engineering student focused on systems development, embedded projects, and real-world automation.
+</h3>
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riveragio&show_icons=true&theme=tokyonight&hide_border=true" alt="riveragio's GitHub Stats" />
-</p>
+I am a developer and computer engineering student who enjoys building practical systems that combine software and hardware.  
+My work focuses on low-level programming, embedded systems, backend development, and self-hosted infrastructure.
 
----
+I like creating projects that solve real problems such as automation tools, monitoring systems, and IoT-based devices.
 
-### 🔥 Top Languages
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveragio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+I also explore cybersecurity concepts, system design, and lightweight computing solutions for embedded environments.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🔭 What I Work On
+
+- Systems programming using C and C++
+- Backend development using PHP and MySQL
+- Embedded systems with Arduino and Raspberry Pi
+- Automation scripts and self-hosted tools
+- Security monitoring and system visibility projects
+
+---
+
+## 🛠️ Skills & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -33,22 +41,63 @@
 
 ---
 
-### 🧑‍💻 Currently Working On
+## 🚀 Current Focus
 
-- 🛰️ C and C++ Systems
-- 💻 Java Systems
-- 🎯 Raspberry Pi & Arduino-based projects
-- 🛠️ PHP + MySQL Web Systems
-- 🚀 Self-hosted apps and automation scripts
+- Building embedded and IoT systems using Arduino and Raspberry Pi
+- Developing system-level tools in C and C++
+- Creating backend-driven web applications with PHP and MySQL
+- Designing lightweight security and monitoring systems
+- Experimenting with automation and self-hosted infrastructure
 
-<!-- ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riveragio&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riveragio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Interests
+
+- Embedded systems and hardware-software integration  
+- Cybersecurity fundamentals and system monitoring  
+- Lightweight AI and edge computing concepts  
+- Networked systems and self-hosted services  
+- Low-level programming and performance optimization  
+
+---
+
+## 📌 Goals
+
+- Build production-ready embedded and IoT systems  
+- Improve expertise in systems programming (C/C++)  
+- Expand knowledge in cybersecurity and system defense  
+- Develop scalable backend systems for real-world use  
+- Contribute to open-source projects  
+
+---
+
+## 📫 Contact
+
+Always open to collaboration on embedded systems, automation tools, and backend projects.
+
+---
 
 ### 🌐 Connect with Me
 
-- 💼 [Portfolio](#) (optional)
-- 📫 Email: `your_email@example.com`
-- 🌍 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 💼 https://grivera.pages.dev/
+- 📫 Email: griverapsu@gmail.com
+- 🌍 LinkedIn: www.linkedin.com/in/gio-rivera-26a253214
 - 🧠 Fun Fact: I love building systems that make life easier.
--->
 
 ---

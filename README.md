@@ -8,7 +8,8 @@ Computer Engineering graduate focused on systems development, embedded projects,
 
 ## 🧠 About Me
 
-I am a developer and computer engineering graduate who enjoys building practical systems that combine software and hardware.  
+I am a developer and computer engineering graduate who enjoys building practical systems that combine software and hardware.
+
 My work focuses on low-level programming, embedded systems, backend development, and self-hosted infrastructure.
 
 I like creating projects that solve real problems such as automation tools, monitoring systems, and IoT-based devices.

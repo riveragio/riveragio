@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gio Rivera</h1>
 
 <h3 align="center">
-Computer Engineering student focused on systems development, embedded projects, and real-world automation.
+Computer Engineering graduate focused on systems development, embedded projects, networking, cybersecurity, and real-world automation.
 </h3>
 
 ---

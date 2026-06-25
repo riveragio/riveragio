@@ -20,7 +20,7 @@ I also explore cybersecurity concepts, system design, and lightweight computing 
 
 ## 🔭 What I Work On
 
-- Systems programming using C and C++
+- Systems programming using C, C++, and Rust
 - Backend development using PHP and MySQL
 - Embedded systems with Arduino and Raspberry Pi
 - Automation scripts and self-hosted tools
